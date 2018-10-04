@@ -242,3 +242,4 @@ TSWLatexianTemp*
 *.spl
 *.lyx
 *.lyx~
+*.lyx#
